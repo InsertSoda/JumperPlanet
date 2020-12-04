@@ -1,0 +1,69 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.51 0.2 1
+0.49 0.7 0.9
+100
+400
+
+112 20 -12.75 20 25 14.75 0.3 0.32 0.34 1
+	+NAME brick0
+120 39 -1 4 4 4 0.87 0 0.05 1
+	+NAME brick1
+	+ROT 180
+	+SHAPE spawnpoint
+131 -104 -12.75 2 149 33.75 0.36 0.11 0.05 1
+	+NAME brick0 - Copy
+131 -104 21 2 149 1 0 0.57 0.28 1
+	+NAME brick0 - Copy - Copy
+111 -45 -12.5 21 60 13.5 0.3 0.32 0.34 1
+	+NAME brick2 - Copy
+120 -54 -3 4 5 4 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy
+120 -64 -3 4 5 4 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy
+120 -74 -3 4 5 4 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy
+109 -102 -3 25 25 4 0 0.57 0.28 1
+	+NAME Win
+110 -104 21 2 149 1 0 0.57 0.28 1
+	+NAME brick0 - Copy - Copy - Copy
+110 -104 -14 2 149 35 0.36 0.11 0.05 1
+	+NAME brick0 - Copy - Copy
+111 -104 -16 25 2 37 0.36 0.11 0.05 1
+	+NAME brick0 - Copy - Copy
+111 -104 21 25 2 1 0 0.57 0.28 1
+	+NAME brick0 - Copy - Copy - Copy
+112 43 -17 25 2 38 0.36 0.11 0.05 1
+	+NAME brick0 - Copy - Copy - Copy
+112 43 21 25 2 1 0 0.57 0.28 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+112 -45 2 7 5 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy
+125 -45 2 6 5 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy
+118 -40 2 1 12 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy
+118 -23 2 1 12 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy
+119 -36 2 7 1 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy - Copy
+124 -29 2 7 1 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+124 -5 2 1 11 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+124 13 2 7 1 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+112 6 2 13 1 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+119 -17 2 6 6 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+119 -23 2 12 1 25 0.3 0.32 0.34 1
+	+NAME brick2 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+102.625 -90.375 -12.5 36.75 130.75 1 0 0.5883336 1 1
+	+NAME Death
+111 -79.25 -36.5 25 2 37 0.36 0.11 0.05 1
+	+NAME brick0 - Copy - Copy - Copy
+
+>CAMPOS -58.85922 73.8679 -5.481108 276.5996 45.19997
+>SUNPOS 50.00001 330
